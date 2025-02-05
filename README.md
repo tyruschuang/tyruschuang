@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Tyrus Chuang! 👋  
 
-<!--
-**tyruschuang/tyruschuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | 3D Artist | Student at Northeastern University**  
 
-Here are some ideas to get you started:
+I'm a passionate developer with experience in **full-stack development, game design, and 3D art**. I love building interactive projects, leading teams, and solving complex problems through code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Technologies  
+- **Programming:** Java, Kotlin, PHP, Swift, GoLang, Python, Node.js  
+- **Web Development:** React, WordPress, Material-UI, Figma, HTML, CSS  
+- **Database Management:** MongoDB, SQL  
+- **3D & Design:** Blender, Photoshop, Premiere Pro  
+
+### 💻 Projects  
+- 🔥 **[Torch API](https://torch.onrender.com/)** – Real-time Minecraft server data API using Go & React  
+- 🌐 **[Personal Website](https://tyrus-chuang-personal.onrender.com/)** – Portfolio showcasing my work  
+- 🤖 **[972 Scouting App](https://scouting-app-2024.onrender.com/)** – Data-driven scouting tool for FIRST robotics teams  
+
+### 📫 Connect with Me  
+- 🌎 **Portfolio:** [omeiiga.wordpress.com](https://omeiiga.wordpress.com/)  
+- 💼 **LinkedIn:** [linkedin.com/in/tyruschuang](https://linkedin.com/in/tyruschuang)  
+- 📩 **Email:** tyruschuang@outlook.com  
+
+Feel free to check out some of my repositories or reach out to talk!
